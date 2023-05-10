@@ -1,0 +1,3856 @@
+body{
+	margin: 0;
+	background-color: #1a191f !important;
+}
+
+/*consultheader*/
+.carousel-fade{
+	border-bottom: 5px solid #128b94;
+}
+
+.consultheader{
+	position: absolute;
+	top: 25%;
+	z-index: 100;
+	text-align: center;
+	width: 99.2%;
+}
+
+.consultheader h2{
+	font-size: 65px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: rgba(18, 139, 148, 0.9);
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+	display: inline-block;
+}
+
+.consultheader p{
+	font-size: 25px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: rgba(18, 139, 148, 0.9);
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+/*fabheader*/
+
+.fabheader{
+	width: 100%;
+	height: 350px;
+	background-image: url('../images/pipefab/fabsheet.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding-top: 5em;
+	display: block;
+	border-bottom: 5px solid #128b94;
+}
+
+.fabheader h2{
+	font-size: 65px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: #128b94;
+	display: inline-block;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+}
+
+.fabheader p{
+	font-size: 25px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: #128b94;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.contractheader{
+	width: 100%;
+	height: 350px;
+	background-image: url('../images/pipefab/consulting-sheet.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	padding-top: 5em;
+	display: block;
+	border-bottom: 5px solid #128b94;
+}
+
+.contractheader h2{
+	font-size: 65px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: #128b94;
+	display: inline-block;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+}
+
+.contractheader p{
+	font-size: 25px;
+	font-weight: 800;
+	font-family: Arial;
+	background-color: #128b94;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 3px;
+	display: inline-block;
+	margin-top: 20px;
+}
+
+div.rowspace{
+	padding: 0em 0em !important;
+}
+
+.header-slug {
+    padding: 1.2em 3em !important;
+    background-image: url('../images/consult-slug.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.header-slug span {
+    font-weight: bold;
+    color: #fff;
+    font-size: 30px;
+}
+
+.ToolsBody{
+	padding: 1em 2em !important;
+}
+
+.header1{
+	background-image: url('../images/pipefab/list-pipesd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header1-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header1-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub1-2{
+	display: none;
+}
+.headersub1-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub1-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header2-2  */
+.header2{
+	background-image: url('../images/pipefab/list-welded-pipesd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header2-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header2-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub2-2{
+	display: none;
+}
+.headersub2-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub2-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header3-2  */
+.header3{
+	background-image: url('../images/pipefab/custom-made-pipe-assembliesd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header3-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header3-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub3-2{
+	display: none;
+}
+.headersub3-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub3-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header4-2  */
+.header4{
+	background-image: url('../images/pipefab/delete-pipe-fab-dataed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header4-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header4-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub4-2{
+	display: none;
+}
+.headersub4-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub4-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header5-2  */
+.header5{
+	background-image: url('../images/pipefab/pipe-numbersd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header5-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header5-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub5-2{
+	display: none;
+}
+.headersub5-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub5-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header6-2  */
+.header6{
+	background-image: url('../images/pipefab/FlexDropperToold.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header6-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header6-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub6-2{
+	display: none;
+}
+.headersub6-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub6-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header7-2  */
+.header7{
+	background-image: url('../images/pipefab/ExportFABReportd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header7-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header7-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub7-2{
+	display: none;
+}
+.headersub7-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub7-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header8-2  */
+.header8{
+	background-image: url('../images/pipefab/ExportFABSheetsd.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header8-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header8-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub8-2{
+	display: none;
+}
+.headersub8-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub8-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header9-2  */
+.header9{
+	background-image: url('../images/pipefab/SpaceAnalysised.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header9-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header9-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub9-2{
+	display: none;
+}
+.headersub9-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub9-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header10-2  */
+.header10{
+	background-image: url('../images/pipefab/autobcexpsprspacinged.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header10-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header10-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub10-2{
+	display: none;
+}
+.headersub10-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub10-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header11-2  */
+.header11{
+	background-image: url('../images/pipefab/autocsspacinged.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header11-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header11-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub11-2{
+	display: none;
+}
+.headersub11-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub11-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header12-2  */
+.header12{
+	background-image: url('../images/pipefab/autopipinged.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header12-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header12-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub12-2{
+	display: none;
+}
+.headersub12-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub12-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header13-2  */
+.header13{
+	background-image: url('../images/pipefab/AutoConnectored.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header13-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header13-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub13-2{
+	display: none;
+}
+.headersub13-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub13-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header14-2  */
+.header14{
+	background-image: url('../images/pipefab/rotatetapsed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header14-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header14-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub14-2{
+	display: none;
+}
+.headersub14-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub14-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header15-2  */
+.header15{
+	background-image: url('../images/pipefab/taptoteed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header15-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header15-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub15-2{
+	display: none;
+}
+.headersub15-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub15-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header16-2  */
+.header16{
+	background-image: url('../images/pipefab/teetotaped.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header16-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header16-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub16-2{
+	display: none;
+}
+.headersub16-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub16-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header17-2  */
+.header17{
+	background-image: url('../images/pipefab/cadtorevited.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header17-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header17-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub17-2{
+	display: none;
+}
+.headersub17-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub17-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header18-2  */
+.header18{
+	background-image: url('../images/pipefab/rotatepipesed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header18-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header18-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub18-2{
+	display: none;
+}
+.headersub18-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub18-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header19-2  */
+.header19{
+	background-image: url('../images/pipefab/autoremovecouplingsed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header19-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header19-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub19-2{
+	display: none;
+}
+.headersub19-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub19-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header20-2  */
+.header20{
+	background-image: url('../images/pipefab/cutpipesed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header20-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header20-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub20-2{
+	display: none;
+}
+.headersub20-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub20-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header21-2  */
+.header21{
+	background-image: url('../images/pipefab/groupfittingsed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header21-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header21-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub21-2{
+	display: none;
+}
+.headersub21-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub21-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header22-2  */
+.header22{
+	background-image: url('../images/pipefab/connectpipetosprinklered.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header22-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header22-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub22-2{
+	display: none;
+}
+.headersub22-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub22-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header23-2  */
+.header23{
+	background-image: url('../images/pipefab/hangered.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header23-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header23-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub23-2{
+	display: none;
+}
+.headersub23-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub23-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header24-2  */
+.header24{
+	background-image: url('../images/pipefab/pipesleeved.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header24-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header24-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub24-2{
+	display: none;
+}
+.headersub24-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub24-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header25-2  */
+.header25{
+	background-image: url('../images/pipefab/harmonisepipesandfittingsed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header25-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header25-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub25-2{
+	display: none;
+}
+.headersub25-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub25-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header26-2  */
+.header26{
+	background-image: url('../images/pipefab/deletepipesed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header26-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header26-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub26-2{
+	display: none;
+}
+.headersub26-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub26-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header27-2  */
+.header27{
+	background-image: url('../images/pipefab/filterviewed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header27-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header27-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub27-2{
+	display: none;
+}
+.headersub27-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub27-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header28-2  */
+.header28{
+	background-image: url('../images/pipefab/CalcsExportHeynaed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header28-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header28-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub28-2{
+	display: none;
+}
+.headersub28-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub28-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header29-2  */
+.header29{
+	background-image: url('../images/pipefab/CalcsExportFHCed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header29-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header29-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub29-2{
+	display: none;
+}
+.headersub29-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub29-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header30-2  */
+.header30{
+	background-image: url('../images/pipefab/CalcsExportSHCed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header30-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header30-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub30-2{
+	display: none;
+}
+.headersub30-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub30-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header31-2  */
+.header31{
+	background-image: url('../images/pipefab/dropper-riser-heighted.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header31-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header31-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub31-2{
+	display: none;
+}
+.headersub31-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub31-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header32-2  */
+.header32{
+	background-image: url('../images/pipefab/pipetostructuredisanced.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header32-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header32-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub32-2{
+	display: none;
+}
+.headersub32-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub32-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header33-2  */
+.header33{
+	background-image: url('../images/pipefab/bcsprinklerspacingreviewed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header33-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header33-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub33-2{
+	display: none;
+}
+.headersub33-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub33-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+/* header34-2  */
+.header34{
+	background-image: url('../images/pipefab/cs-exp-sprinkler-spacing-reviewed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 600px;
+	margin-bottom: 1em;
+}
+
+.header34-1{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.header34-1 h1{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+.headersub34-2{
+	display: none;
+}
+.headersub34-3{
+	padding-top: 6em;
+	text-align: left;
+}
+
+.headersub34-3 h5{
+	font-size: 17px;
+	color: #fff;
+	font-weight: 600;
+	padding-right: 1.5em;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }
+
+@media screen and (max-width: 1024px){
+	.header1{
+		background: none;
+		height: auto !important;
+	}
+	.header1-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header1-1 h1{
+		margin: 0px;
+	}
+	.headersub1-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/list-pipes.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub1-2 img{
+		width: 100%;
+	}
+	.headersub1-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header2-2 */
+	.header2{
+		background: none;
+		height: auto !important;
+	}
+	.header2-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header2-1 h1{
+		margin: 0px;
+	}
+	.headersub2-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/list-welded-pipes.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub2-2 img{
+		width: 100%;
+	}
+	.headersub2-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header3-2 */
+	.header3{
+		background: none;
+		height: auto !important;
+	}
+	.header3-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header3-1 h1{
+		margin: 0px;
+	}
+	.headersub3-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/custom-made-pipe-assemblies.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub3-2 img{
+		width: 100%;
+	}
+	.headersub3-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header4-2 */
+	.header4{
+		background: none;
+		height: auto !important;
+	}
+	.header4-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header4-1 h1{
+		margin: 0px;
+	}
+	.headersub4-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/delete-pipe-fab-data.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub4-2 img{
+		width: 100%;
+	}
+	.headersub4-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header5-2 */
+	.header5{
+		background: none;
+		height: auto !important;
+	}
+	.header5-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header5-1 h1{
+		margin: 0px;
+	}
+	.headersub5-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/pipe-numbers.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub5-2 img{
+		width: 100%;
+	}
+	.headersub5-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header6-2 */
+	.header6{
+		background: none;
+		height: auto !important;
+	}
+	.header6-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header6-1 h1{
+		margin: 0px;
+	}
+	.headersub6-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/FlexDropperTool.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub6-2 img{
+		width: 100%;
+	}
+	.headersub6-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header7-2 */
+	.header7{
+		background: none;
+		height: auto !important;
+	}
+	.header7-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header7-1 h1{
+		margin: 0px;
+	}
+	.headersub7-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/ExportFABReport.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub7-2 img{
+		width: 100%;
+	}
+	.headersub7-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header8-2 */
+	.header8{
+		background: none;
+		height: auto !important;
+	}
+	.header8-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header8-1 h1{
+		margin: 0px;
+	}
+	.headersub8-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/ExportFABSheets.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub8-2 img{
+		width: 100%;
+	}
+	.headersub8-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header9-2 */
+	.header9{
+		background: none;
+		height: auto !important;
+	}
+	.header9-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header9-1 h1{
+		margin: 0px;
+	}
+	.headersub9-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/Space-Analysis.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub9-2 img{
+		width: 100%;
+	}
+	.headersub9-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header10-2 */
+	.header10{
+		background: none;
+		height: auto !important;
+	}
+	.header10-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header10-1 h1{
+		margin: 0px;
+	}
+	.headersub10-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/Auto-BC-EXP-SPR-Spacing.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub10-2 img{
+		width: 100%;
+	}
+	.headersub10-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header11-2 */
+	.header11{
+		background: none;
+		height: auto !important;
+	}
+	.header11-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header11-1 h1{
+		margin: 0px;
+	}
+	.headersub11-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/AutoCS-Spacing.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub11-2 img{
+		width: 100%;
+	}
+	.headersub11-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header12-2 */
+	.header12{
+		background: none;
+		height: auto !important;
+	}
+	.header12-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header12-1 h1{
+		margin: 0px;
+	}
+	.headersub12-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/AutoPiping.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub12-2 img{
+		width: 100%;
+	}
+	.headersub12-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header13-2 */
+	.header13{
+		background: none;
+		height: auto !important;
+	}
+	.header13-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header13-1 h1{
+		margin: 0px;
+	}
+	.headersub13-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/AutoConnector.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub13-2 img{
+		width: 100%;
+	}
+	.headersub13-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header14-2 */
+	.header14{
+		background: none;
+		height: auto !important;
+	}
+	.header14-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header14-1 h1{
+		margin: 0px;
+	}
+	.headersub14-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/rotatetaps.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub14-2 img{
+		width: 100%;
+	}
+	.headersub14-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header15-2 */
+	.header15{
+		background: none;
+		height: auto !important;
+	}
+	.header15-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header15-1 h1{
+		margin: 0px;
+	}
+	.headersub15-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/taptotee.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub15-2 img{
+		width: 100%;
+	}
+	.headersub15-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header16-2 */
+	.header16{
+		background: none;
+		height: auto !important;
+	}
+	.header16-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header16-1 h1{
+		margin: 0px;
+	}
+	.headersub16-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/teetotap.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub16-2 img{
+		width: 100%;
+	}
+	.headersub16-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header17-2 */
+	.header17{
+		background: none;
+		height: auto !important;
+	}
+	.header17-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header17-1 h1{
+		margin: 0px;
+	}
+	.headersub17-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/cadtorevit.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub17-2 img{
+		width: 100%;
+	}
+	.headersub17-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header18-2 */
+	.header18{
+		background: none;
+		height: auto !important;
+	}
+	.header18-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header18-1 h1{
+		margin: 0px;
+	}
+	.headersub18-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/rotatepipes.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub18-2 img{
+		width: 100%;
+	}
+	.headersub18-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header19-2 */
+	.header19{
+		background: none;
+		height: auto !important;
+	}
+	.header19-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header19-1 h1{
+		margin: 0px;
+	}
+	.headersub19-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/autoremovecouplings.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub19-2 img{
+		width: 100%;
+	}
+	.headersub19-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header20-2 */
+	.header20{
+		background: none;
+		height: auto !important;
+	}
+	.header20-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header20-1 h1{
+		margin: 0px;
+	}
+	.headersub20-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/cutpipes.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub20-2 img{
+		width: 100%;
+	}
+	.headersub20-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header21-2 */
+	.header21{
+		background: none;
+		height: auto !important;
+	}
+	.header21-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header21-1 h1{
+		margin: 0px;
+	}
+	.headersub21-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/groupfittings.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub21-2 img{
+		width: 100%;
+	}
+	.headersub21-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header22-2 */
+	.header22{
+		background: none;
+		height: auto !important;
+	}
+	.header22-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header22-1 h1{
+		margin: 0px;
+	}
+	.headersub22-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/connectpipetosprinkler.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub22-2 img{
+		width: 100%;
+	}
+	.headersub22-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header23-2 */
+	.header23{
+		background: none;
+		height: auto !important;
+	}
+	.header23-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header23-1 h1{
+		margin: 0px;
+	}
+	.headersub23-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/hanger.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub23-2 img{
+		width: 100%;
+	}
+	.headersub23-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header24-2 */
+	.header24{
+		background: none;
+		height: auto !important;
+	}
+	.header24-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header24-1 h1{
+		margin: 0px;
+	}
+	.headersub24-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/pipe-sleeve.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub24-2 img{
+		width: 100%;
+	}
+	.headersub24-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header25-2 */
+	.header25{
+		background: none;
+		height: auto !important;
+	}
+	.header25-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header25-1 h1{
+		margin: 0px;
+	}
+	.headersub25-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/harmonisepipesandfittings.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub25-2 img{
+		width: 100%;
+	}
+	.headersub25-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header26-2 */
+	.header26{
+		background: none;
+		height: auto !important;
+	}
+	.header26-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header26-1 h1{
+		margin: 0px;
+	}
+	.headersub26-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/delete-pipes.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub26-2 img{
+		width: 100%;
+	}
+	.headersub26-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header27-2 */
+	.header27{
+		background: none;
+		height: auto !important;
+	}
+	.header27-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header27-1 h1{
+		margin: 0px;
+	}
+	.headersub27-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/filtercalcview.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub27-2 img{
+		width: 100%;
+	}
+	.headersub27-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header28-2 */
+	.header28{
+		background: none;
+		height: auto !important;
+	}
+	.header28-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header28-1 h1{
+		margin: 0px;
+	}
+	.headersub28-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/CalcsExportHeyna.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub28-2 img{
+		width: 100%;
+	}
+	.headersub28-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header29-2 */
+	.header29{
+		background: none;
+		height: auto !important;
+	}
+	.header29-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header29-1 h1{
+		margin: 0px;
+	}
+	.headersub29-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/CalcsExportFHC.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub29-2 img{
+		width: 100%;
+	}
+	.headersub29-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header30-2 */
+	.header30{
+		background: none;
+		height: auto !important;
+	}
+	.header30-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header30-1 h1{
+		margin: 0px;
+	}
+	.headersub30-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/CalcsExportSHC.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub30-2 img{
+		width: 100%;
+	}
+	.headersub30-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header31-2 */
+	.header31{
+		background: none;
+		height: auto !important;
+	}
+	.header31-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header31-1 h1{
+		margin: 0px;
+	}
+	.headersub31-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/dropper-riser-height.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub31-2 img{
+		width: 100%;
+	}
+	.headersub31-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header32-2 */
+	.header32{
+		background: none;
+		height: auto !important;
+	}
+	.header32-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header32-1 h1{
+		margin: 0px;
+	}
+	.headersub32-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/pipetostructuredisance.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub32-2 img{
+		width: 100%;
+	}
+	.headersub32-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header33-2 */
+	.header33{
+		background: none;
+		height: auto !important;
+	}
+	.header33-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header33-1 h1{
+		margin: 0px;
+	}
+	.headersub33-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/bcsprinklerspacingreview.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub33-2 img{
+		width: 100%;
+	}
+	.headersub33-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	/* header34-2 */
+	.header34{
+		background: none;
+		height: auto !important;
+	}
+	.header34-1{
+		padding: 20px 0px;
+		background-color: #128b94;
+	}
+	.header34-1 h1{
+		margin: 0px;
+	}
+	.headersub34-2{
+		display: block;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+		background-image: url('../images/pipefab/cs-exp-sprinkler-spacing-review.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top;
+		height: 450px;
+	}
+	.headersub34-2 img{
+		width: 100%;
+	}
+	.headersub34-3{
+		width: 100% !important;
+		text-align: center;
+		background-color: #03253b;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.header1-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub1-2{
+		height: 400px;
+	}
+
+	.headersub1-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub1-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+	/* header2-2 */
+	.header2-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub2-2{
+		height: 400px;
+	}
+
+	.headersub2-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub2-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header3-2 */
+	.header3-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub3-2{
+		height: 400px;
+	}
+
+	.headersub3-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub3-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header4-2 */
+	.header4-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub4-2{
+		height: 400px;
+	}
+
+	.headersub4-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub4-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header5-2 */
+	.header5-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub5-2{
+		height: 400px;
+	}
+
+	.headersub5-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub5-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header6-2 */
+	.header6-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub6-2{
+		height: 400px;
+	}
+
+	.headersub6-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub6-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header7-2 */
+	.header7-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub7-2{
+		height: 400px;
+	}
+
+	.headersub7-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub7-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header8-2 */
+	.header8-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub8-2{
+		height: 400px;
+	}
+
+	.headersub8-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub8-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header9-2 */
+	.header9-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub9-2{
+		height: 400px;
+	}
+
+	.headersub9-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub9-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header10-2 */
+	.header10-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub10-2{
+		height: 400px;
+	}
+
+	.headersub10-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub10-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header11-2 */
+	.header11-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub11-2{
+		height: 400px;
+	}
+	.headersub11-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub11-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header12-2 */
+	.header12-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub12-2{
+		height: 400px;
+	}
+	.headersub12-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub12-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header13-2 */
+	.header13-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub13-2{
+		height: 400px;
+	}
+	.headersub13-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub13-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header14-2 */
+	.header14-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub14-2{
+		height: 400px;
+	}
+	.headersub14-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub14-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header15-2 */
+	.header15-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub15-2{
+		height: 400px;
+	}
+	.headersub15-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub15-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header16-2 */
+	.header16-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub16-2{
+		height: 400px;
+	}
+	.headersub16-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub16-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header17-2 */
+	.header17-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub17-2{
+		height: 400px;
+	}
+	.headersub17-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub17-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header18-2 */
+	.header18-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub18-2{
+		height: 400px;
+	}
+	.headersub18-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub18-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header19-2 */
+	.header19-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub19-2{
+		height: 400px;
+	}
+	.headersub19-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub19-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header20-2 */
+	.header20-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub20-2{
+		height: 400px;
+	}
+	.headersub20-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub20-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header21-2 */
+	.header21-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub21-2{
+		height: 400px;
+	}
+	.headersub21-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub21-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header22-2 */
+	.header22-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub22-2{
+		height: 400px;
+	}
+	.headersub22-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub22-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header23-2 */
+	.header23-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub23-2{
+		height: 400px;
+	}
+	.headersub23-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub23-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header24-2 */
+	.header24-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub24-2{
+		height: 400px;
+	}
+	.headersub24-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub24-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header25-2 */
+	.header25-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub25-2{
+		height: 400px;
+	}
+	.headersub25-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub25-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header26-2 */
+	.header26-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub26-2{
+		height: 400px;
+	}
+	.headersub26-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub26-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header27-2 */
+	.header27-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub27-2{
+		height: 400px;
+	}
+	.headersub27-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub27-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header28-2 */
+	.header28-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub28-2{
+		height: 400px;
+	}
+	.headersub28-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub28-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header29-2 */
+	.header29-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub29-2{
+		height: 400px;
+	}
+	.headersub29-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub29-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header30-2 */
+	.header30-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub30-2{
+		height: 400px;
+	}
+	.headersub30-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub30-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header31-2 */
+	.header31-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub31-2{
+		height: 400px;
+	}
+	.headersub31-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub31-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header32-2 */
+	.header32-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub32-2{
+		height: 400px;
+	}
+	.headersub32-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub32-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header33-2 */
+	.header33-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub33-2{
+		height: 400px;
+	}
+	.headersub33-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub33-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+
+	/* header34-2 */
+	.header34-1 h1{
+		font-size: 1.5em !important;
+	}
+	.headersub34-2{
+		height: 400px;
+	}
+	.headersub34-3{
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.headersub34-3 h5{
+		font-size: 1.2em !important;
+		padding-right: 0em !important;
+	}
+}
+
+@media screen and (max-width: 640px){
+	.header1-1{
+		padding: 12px 0px !important;
+	}
+	.headersub1-2{
+		height: 300px;
+	}
+	/*header2-2*/
+	.header2-1{
+		padding: 12px 0px !important;
+	}
+	.headersub2-2{
+		height: 300px;
+	}
+
+	/*header3-2*/
+	.header3-1{
+		padding: 12px 0px !important;
+	}
+	.headersub3-2{
+		height: 300px;
+	}
+
+	/*header4-2*/
+	.header4-1{
+		padding: 12px 0px !important;
+	}
+	.headersub4-2{
+		height: 300px;
+	}
+
+	/*header5-2*/
+	.header5-1{
+		padding: 12px 0px !important;
+	}
+	.headersub5-2{
+		height: 300px;
+	}
+
+	/*header6-2*/
+	.header6-1{
+		padding: 12px 0px !important;
+	}
+	.headersub6-2{
+		height: 300px;
+	}
+
+	/*header7-2*/
+	.header7-1{
+		padding: 12px 0px !important;
+	}
+	.headersub7-2{
+		height: 300px;
+	}
+
+	/*header8-2*/
+	.header8-1{
+		padding: 12px 0px !important;
+	}
+	.headersub8-2{
+		height: 300px;
+	}
+
+	/*header9-2*/
+	.header9-1{
+		padding: 12px 0px !important;
+	}
+	.headersub9-2{
+		height: 300px;
+	}
+
+	/*header10-2*/
+	.header10-1{
+		padding: 12px 0px !important;
+	}
+	.headersub10-2{
+		height: 300px;
+	}
+
+	/*header11-2*/
+	.header11-1{
+		padding: 12px 0px !important;
+	}
+	.headersub11-2{
+		height: 300px;
+	}
+
+	/*header12-2*/
+	.header12-1{
+		padding: 12px 0px !important;
+	}
+	.headersub12-2{
+		height: 300px;
+	}
+
+	/*header13-2*/
+	.header13-1{
+		padding: 12px 0px !important;
+	}
+	.headersub13-2{
+		height: 300px;
+	}
+
+	/*header14-2*/
+	.header14-1{
+		padding: 12px 0px !important;
+	}
+	.headersub14-2{
+		height: 300px;
+	}
+
+	/*header15-2*/
+	.header15-1{
+		padding: 12px 0px !important;
+	}
+	.headersub15-2{
+		height: 300px;
+	}
+
+	/*header16-2*/
+	.header16-1{
+		padding: 12px 0px !important;
+	}
+	.headersub16-2{
+		height: 300px;
+	}
+
+	/*header17-2*/
+	.header17-1{
+		padding: 12px 0px !important;
+	}
+	.headersub17-2{
+		height: 300px;
+	}
+
+	/*header18-2*/
+	.header18-1{
+		padding: 12px 0px !important;
+	}
+	.headersub18-2{
+		height: 300px;
+	}
+
+	/*header19-2*/
+	.header19-1{
+		padding: 12px 0px !important;
+	}
+	.headersub19-2{
+		height: 300px;
+	}
+
+	/*header20-2*/
+	.header20-1{
+		padding: 12px 0px !important;
+	}
+	.headersub20-2{
+		height: 300px;
+	}
+
+	/*header21-2*/
+	.header21-1{
+		padding: 12px 0px !important;
+	}
+	.headersub21-2{
+		height: 300px;
+	}
+
+	/*header22-2*/
+	.header22-1{
+		padding: 12px 0px !important;
+	}
+	.headersub22-2{
+		height: 300px;
+	}
+
+	/*header23-2*/
+	.header23-1{
+		padding: 12px 0px !important;
+	}
+	.headersub23-2{
+		height: 300px;
+	}
+
+	/*header24-2*/
+	.header24-1{
+		padding: 12px 0px !important;
+	}
+	.headersub24-2{
+		height: 300px;
+	}
+
+	/*header25-2*/
+	.header25-1{
+		padding: 12px 0px !important;
+	}
+	.headersub25-2{
+		height: 300px;
+	}
+
+	/*header26-2*/
+	.header26-1{
+		padding: 12px 0px !important;
+	}
+	.headersub26-2{
+		height: 300px;
+	}
+
+	/*header27-2*/
+	.header27-1{
+		padding: 12px 0px !important;
+	}
+	.headersub27-2{
+		height: 300px;
+	}
+
+	/*header28-2*/
+	.header28-1{
+		padding: 12px 0px !important;
+	}
+	.headersub28-2{
+		height: 300px;
+	}
+
+	/*header29-2*/
+	.header29-1{
+		padding: 12px 0px !important;
+	}
+	.headersub29-2{
+		height: 300px;
+	}
+
+	/*header30-2*/
+	.header30-1{
+		padding: 12px 0px !important;
+	}
+	.headersub30-2{
+		height: 300px;
+	}
+
+	/*header31-2*/
+	.header31-1{
+		padding: 12px 0px !important;
+	}
+	.headersub31-2{
+		height: 300px;
+	}
+
+	/*header32-2*/
+	.header32-1{
+		padding: 12px 0px !important;
+	}
+	.headersub32-2{
+		height: 300px;
+	}
+
+	/*header33-2*/
+	.header33-1{
+		padding: 12px 0px !important;
+	}
+	.headersub33-2{
+		height: 300px;
+	}
+
+	/*header34-2*/
+	.header34-1{
+		padding: 12px 0px !important;
+	}
+	.headersub34-2{
+		height: 300px;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.headersub1-2{
+		height: 200px;
+	}
+
+	/*header2-2*/
+	.headersub2-2{
+		height: 200px;
+	}
+
+	/*header3-2*/
+	.headersub3-2{
+		height: 200px;
+	}
+
+	/*header4-2*/
+	.headersub4-2{
+		height: 200px;
+	}
+
+	/*header5-2*/
+	.headersub5-2{
+		height: 200px;
+	}
+
+	/*header6-2*/
+	.headersub6-2{
+		height: 200px;
+	}
+
+	/*header7-2*/
+	.headersub7-2{
+		height: 200px;
+	}
+
+	/*header8-2*/
+	.headersub8-2{
+		height: 200px;
+	}
+
+	/*header9-2*/
+	.headersub9-2{
+		height: 200px;
+	}
+
+	/*header10-2*/
+	.headersub10-2{
+		height: 200px;
+	}
+
+	/*header11-2*/
+	.headersub11-2{
+		height: 200px;
+	}
+
+	/*header12-2*/
+	.headersub12-2{
+		height: 200px;
+	}
+
+	/*header13-2*/
+	.headersub13-2{
+		height: 200px;
+	}
+
+	/*header14-2*/
+	.headersub14-2{
+		height: 200px;
+	}
+
+	/*header15-2*/
+	.headersub15-2{
+		height: 200px;
+	}
+
+	/*header16-2*/
+	.headersub16-2{
+		height: 200px;
+	}
+
+	/*header17-2*/
+	.headersub17-2{
+		height: 200px;
+	}
+
+	/*header18-2*/
+	.headersub18-2{
+		height: 200px;
+	}
+
+	/*header19-2*/
+	.headersub19-2{
+		height: 200px;
+	}
+
+	/*header20-2*/
+	.headersub20-2{
+		height: 200px;
+	}
+
+	/*header21-2*/
+	.headersub21-2{
+		height: 200px;
+	}
+
+	/*header22-2*/
+	.headersub22-2{
+		height: 200px;
+	}
+
+	/*header23-2*/
+	.headersub23-2{
+		height: 200px;
+	}
+
+	/*header24-2*/
+	.headersub24-2{
+		height: 200px;
+	}
+
+	/*header25-2*/
+	.headersub25-2{
+		height: 200px;
+	}
+
+	/*header26-2*/
+	.headersub26-2{
+		height: 200px;
+	}
+
+	/*header27-2*/
+	.headersub27-2{
+		height: 200px;
+	}
+
+	/*header28-2*/
+	.headersub28-2{
+		height: 200px;
+	}
+
+	/*header29-2*/
+	.headersub29-2{
+		height: 200px;
+	}
+
+	/*header30-2*/
+	.headersub30-2{
+		height: 200px;
+	}
+
+	/*header31-2*/
+	.headersub31-2{
+		height: 200px;
+	}
+
+	/*header32-2*/
+	.headersub32-2{
+		height: 200px;
+	}
+
+	/*header33-2*/
+	.headersub33-2{
+		height: 200px;
+	}
+
+	/*header34-2*/
+	.headersub34-2{
+		height: 200px;
+	}
+}
+
+@media screen and (max-width: 375px){
+	.header1-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub1-2{
+		height: 150px;
+	}
+	.headersub1-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header2-2*/
+	.header2-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub2-2{
+		height: 150px;
+	}
+	.headersub2-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header3-2*/
+	.header3-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub3-2{
+		height: 150px;
+	}
+	.headersub3-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header4-2*/
+	.header4-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub4-2{
+		height: 150px;
+	}
+	.headersub4-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header5-2*/
+	.header5-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub5-2{
+		height: 150px;
+	}
+	.headersub5-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header6-2*/
+	.header6-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub6-2{
+		height: 150px;
+	}
+	.headersub6-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header7-2*/
+	.header7-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub7-2{
+		height: 150px;
+	}
+	.headersub7-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header8-2*/
+	.header8-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub8-2{
+		height: 150px;
+	}
+	.headersub8-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header9-2*/
+	.header9-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub9-2{
+		height: 150px;
+	}
+	.headersub9-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header10-2*/
+	.header10-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub10-2{
+		height: 150px;
+	}
+	.headersub10-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header11-2*/
+	.header11-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub11-2{
+		height: 150px;
+	}
+	.headersub11-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header12-2*/
+	.header12-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub12-2{
+		height: 150px;
+	}
+	.headersub12-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header13-2*/
+	.header13-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub13-2{
+		height: 150px;
+	}
+	.headersub13-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header14-2*/
+	.header14-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub14-2{
+		height: 150px;
+	}
+	.headersub14-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header15-2*/
+	.header15-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub15-2{
+		height: 150px;
+	}
+	.headersub15-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header16-2*/
+	.header16-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub16-2{
+		height: 150px;
+	}
+	.headersub16-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header17-2*/
+	.header17-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub17-2{
+		height: 150px;
+	}
+	.headersub17-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header18-2*/
+	.header18-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub18-2{
+		height: 150px;
+	}
+	.headersub18-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header19-2*/
+	.header19-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub19-2{
+		height: 150px;
+	}
+	.headersub19-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header20-2*/
+	.header20-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub20-2{
+		height: 150px;
+	}
+	.headersub20-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header21-2*/
+	.header21-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub21-2{
+		height: 150px;
+	}
+	.headersub21-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header22-2*/
+	.header22-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub22-2{
+		height: 150px;
+	}
+	.headersub22-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header23-2*/
+	.header23-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub23-2{
+		height: 150px;
+	}
+	.headersub23-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header24-2*/
+	.header24-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub24-2{
+		height: 150px;
+	}
+	.headersub24-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header25-2*/
+	.header25-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub25-2{
+		height: 150px;
+	}
+	.headersub25-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header26-2*/
+	.header26-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub26-2{
+		height: 150px;
+	}
+	.headersub26-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header27-2*/
+	.header27-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub27-2{
+		height: 150px;
+	}
+	.headersub27-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header28-2*/
+	.header28-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub28-2{
+		height: 150px;
+	}
+	.headersub28-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header29-2*/
+	.header29-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub29-2{
+		height: 150px;
+	}
+	.headersub29-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header30-2*/
+	.header30-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub30-2{
+		height: 150px;
+	}
+	.headersub30-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header31-2*/
+	.header31-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub31-2{
+		height: 150px;
+	}
+	.headersub31-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header32-2*/
+	.header32-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub32-2{
+		height: 150px;
+	}
+	.headersub32-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header33-2*/
+	.header33-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub33-2{
+		height: 150px;
+	}
+	.headersub33-3 h5{
+		font-size: 1em !important;
+	}
+
+	/*header34-2*/
+	.header34-1 h1{
+		font-size: 1.2em !important;
+	}
+	.headersub34-2{
+		height: 150px;
+	}
+	.headersub34-3 h5{
+		font-size: 1em !important;
+	}
+}

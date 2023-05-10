@@ -1,0 +1,81 @@
+body{
+	letter-spacing: 1px !important;
+}
+
+.RegisterSlug{
+	padding: 0.5em 2.5em;
+	background-color: #128b94 !important;
+	color: #fff !important;
+	font-size: 25px;
+	box-sizing: border-box !important;
+}
+
+.registrybody{
+	padding: 3em 3em;
+}
+
+/* registryright-list */
+
+.registryright-list{
+	text-align: left !important;
+}
+
+.registryright-list li{
+	padding: 1.5em;
+	text-align: left !important;
+}
+
+.registryright-list li h4{
+	color: #128b94 !important;
+	font-size: 20px;
+}
+
+.registryinput{
+	color: #4d4d4d !important;
+	font-weight: bold !important;
+	font-size: 20px;
+	width: 100% !important;
+	border: 2px solid #128b94 !important;
+	padding: 5px 15px;
+	outline: none !important;
+	background-color: #f1f2f2 !important;
+}
+
+/* registryleft-list */
+
+.registryleft-list{
+	text-align: left !important;
+}
+
+.registryleft-list li{
+	padding: 1.5em;
+}
+
+.registryleft-list li h4{
+	color: #128b94 !important;
+	font-size: 20px;
+}
+
+.formselect{
+	background-color: #f1f2f2 !important;
+	border-radius: 0 !important;
+	padding: 5px 15px !important;
+	font-size: 20px;
+	outline: none !important;
+}
+
+.registryleft-list li:nth-child(6){
+	text-align: center !important;
+}
+
+.registryleft-list li:nth-child(6) button{
+	background-color: #128b94;
+	border: 0;
+	width: 60%;
+	color: #fff;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 12px;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }

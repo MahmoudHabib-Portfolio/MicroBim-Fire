@@ -1,0 +1,183 @@
+body{
+	letter-spacing: 1px;
+}
+
+.my-video-dimensions{
+	width: 100% !important;
+	height: 315px !important;
+}
+
+.tutrialbody{
+	background-image: url('../images/tutorialsheet.jpg');
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 2em 2em;
+}
+
+.slug{
+	padding: 2em 3em;
+	background-image: url('../images/SlubBack.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.slug span{
+	font-weight: bold;
+	color: #fff;
+	font-size: 40px;
+}
+
+.tutrialbody{
+	padding: 1em 1em;
+}
+
+.accordion-button{
+	font-size: 40px;
+	color: #fff !important;
+	outline: none !important;
+    background-color: #128b94 !important;
+}
+
+.accordion-button:not(.collapsed){
+	color: #fff !important;
+    background-color: #128b94 !important;
+}
+
+.accordion-item{
+	border-bottom: 0.4em solid #d85151 !important;
+}
+
+.accordion-body{
+	background-color: #f5f6f8 !important;
+	padding: 0.5rem 0.5rem !important;
+}
+
+.accordion-button::after{
+	background-image: none !important;
+}
+
+button.accordion-button{
+	box-shadow: 0 0 0 0rem #128b94 !important;
+}
+
+.videocard{
+	padding: 0 !important;
+	text-align: center;
+}
+
+.card-body h2{
+	text-align: center;
+	color: #d85151;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.card-body p{
+	text-align: left;
+	color: #333;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.video-frame .row:nth-child(2){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(3){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(4){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(5){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(6){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(7){
+	padding-top: 2em !important;
+}
+
+.video-frame .row:nth-child(8){
+	padding-top: 2em !important;
+}
+
+li a.active{
+	color: #128b94;
+}
+
+.video-js{
+	color: #128b94;
+}
+
+.vjs-theme-sea .vjs-progress-control .vjs-play-progress{
+	background-color: #d85151 !important;
+}
+
+.vjs-theme-sea .vjs-button{
+	font-weight: 800 !important;
+}
+
+.vjs-theme-sea .vjs-button:hover{
+	color: #d85151 !important;
+	font-weight: 800 !important;
+	background: none !important;
+}
+
+.vjs-remaining-time-display{
+	color: #128b94 !important;
+	font-weight: 800 !important;
+}
+
+.vjs-theme-sea .vjs-control-bar{
+	background-color: #f1f2f2 !important;
+}
+
+.video-js .vjs-progress-control .vjs-mouse-display{
+	background-color: #d85151 !important;
+}
+
+.vjs-theme-sea .vjs-progress-control .vjs-mouse-display .vjs-time-tooltip{
+	color: #d85151 !important;
+	font-weight: 800 !important;
+	background-color: #f1f2f2 !important;
+}
+
+.vjs-theme-sea .vjs-progress-control .vjs-load-progress div{
+	background: rgb(18 139 148 / 50%) !important;
+}
+
+.vjs-theme-sea .vjs-progress-control .vjs-time-tooltip{
+	background: #d85151 !important;
+	font-weight: 800 !important;
+}
+
+.vjs-theme-sea .vjs-big-play-button{
+	width: 100px !important;
+	color: #d85151 !important;
+	height: 100px !important;
+	background-color: transparent !important;
+	line-height: 95px !important;
+	border-radius: 100px !important;
+	font-size: 5em !important;
+	border: 5px solid #d85151 !important;
+	margin: -51.5px auto 0 -44px;
+}
+
+.accordion-item:last-of-type{
+	cursor: no-drop !important;
+}
+
+.accordion-item:last-of-type button{
+	cursor: no-drop !important;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }

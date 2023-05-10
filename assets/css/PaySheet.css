@@ -1,0 +1,142 @@
+body{
+	letter-spacing: 1px;
+}
+
+.Payment-Body{
+	background-color: #333333;
+	padding: 1em 25% !important;
+	padding-bottom: 2em !important;
+}
+
+.Payment-Header{
+	padding: 2em;
+	background-color: #fff;
+}
+
+.Payment-Header p{
+	color: #d8514e;
+	font-weight: bold;
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	padding-top: 0.8em;
+	padding-right: 3em;
+	padding-left: 3em;
+}
+
+.paypal{
+	padding: 3em;
+	background-image: url('../images/paypal.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	border: 0;
+	outline: none;
+	width: 100%;
+	padding-bottom: 2em;
+	margin-top: 2em;
+}
+
+.paycredit{
+	padding: 3em;
+	background-image: url('../images/Credit.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	border: 0;
+	outline: none;
+	width: 100%;
+	padding-bottom: 2em;
+	margin-top: 2em;
+}
+
+.creditform{
+	width: 100%;
+	box-sizing: border-box !important;
+	overflow: hidden !important;
+	padding-top: 1.3em !important;
+}
+
+.fullname{
+	background-color: #fff !important;
+	padding: 0.6em 0.7em !important;
+	font-size: 16px !important;
+	width: 285px !important;
+	color: #333 !important;
+	font-weight: bold !important;
+	border: 1.8px solid #333 !important;
+	outline: none !important;
+}
+
+.creditinput::placeholder{
+	color: #b9b9b9 !important;
+}
+
+.fullname::placeholder{
+	color: #b9b9b9 !important;
+}
+
+.creditform li{
+	padding-bottom: 1.5em !important;
+}
+
+.creditform li:nth-child(1){
+	float: left !important;
+}
+
+.creditform li:nth-child(2){
+	float: right !important;
+}
+
+.creditform li:nth-child(3) input{
+	background-color: #fff !important;
+	padding: 0.6em 0.7em !important;
+	font-size: 16px !important;
+	width: 100% !important;
+	color: #333 !important;
+	font-weight: bold !important;
+	border: 1.8px solid #333 !important;
+	outline: none !important;
+	float: left !important;
+}
+
+.creditform li:nth-child(3) input::placeholder{
+	color: #b9b9b9;
+}
+
+.safety{
+	background-color: #fff !important;
+	padding: 0.6em 0.7em !important;
+	font-size: 16px !important;
+	width: 33.3% !important;
+	color: #333 !important;
+	font-weight: bold !important;
+	border: 1.8px solid #333 !important;
+	outline: none !important;
+	float: left !important;
+	margin-top: 1.5em !important;
+}
+
+.safety::placeholder{
+	color: #b9b9b9 !important;
+}
+
+.creditform li:nth-child(5){
+	padding-top: 1.5em !important;
+	float: left !important;
+}
+
+.creditform li:nth-child(6){
+	padding-top: 1.5em !important;
+	float: right !important;
+}
+
+.credit-privacy p{
+	color:#333 !important; 
+	font-size:15px !important;
+	padding-left: 11.5em !important;
+	padding-right: 11.5em !important;
+	padding-top: 2em !important;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }

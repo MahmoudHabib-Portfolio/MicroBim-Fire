@@ -1,0 +1,1185 @@
+.navlistRight li:nth-child(1){
+  display: none;
+}
+
+.navlistRight li:nth-child(1) span{
+  font-size:25px;
+  cursor:pointer;
+  color: #128b94;
+}
+
+.sidenav{
+  height: 100%;
+  width: 0px;
+  display: block !important;
+  position: fixed;
+  z-index: 2000 !important;
+  top: 0;
+  left: 0;
+  background-color: #128b94;
+  overflow: scroll;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav li {
+  display: inline-block;
+  padding: 8px 25px 8px 25px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff;
+  display: block;
+  transition: 0.3s;
+  border-top: 2px solid #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: arial;
+  cursor: pointer;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  width: 300px;
+}
+
+.sidenav li i{
+	float: right;
+	line-height: 1.5;
+}
+
+.sidenav li a{
+	color: #fff;
+	display: block;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  font-size: 36px;
+  margin-left: 50px;
+  cursor: pointer;
+  color: #fff;
+}
+
+/* SolutionB */
+.SolutionB{
+	background-color: #f1f2f2;
+	display: none;
+}
+
+.SolutionB li{
+	color: #03253b !important;
+	border-top: 1px solid #03253b;
+	display: block;
+	font-size: 14px;
+}
+
+.SolutionB li a{
+	color: #03253b;
+	font-weight: 500;
+	display: block;
+}
+
+/* ToolsB */
+.ToolsB{
+	background-color: #f1f2f2;
+	display: none;
+}
+
+.ToolsB li{
+	color: #03253b !important;
+	border-top: 1px solid #03253b;
+	display: block;
+	font-size: 14px;
+}
+
+.ToolsB li a{
+	color: #03253b;
+	font-weight: 500;
+	display: block;
+}
+
+/* CompanyB */
+.CompanyB{
+	background-color: #f1f2f2;
+	display: none;
+}
+
+.CompanyB li{
+	color: #03253b !important;
+	border-top: 1px solid #03253b;
+	display: block;
+	font-size: 14px;
+}
+
+.CompanyB li a{
+	color: #03253b;
+	font-weight: 500;
+	display: block;
+}
+
+/* AccB */
+.AccB{
+  background-color: #f1f2f2;
+  display: none;
+}
+
+.AccB li{
+  color: #03253b !important;
+  border-top: 1px solid #03253b !important;
+  display: block;
+  font-size: 14px !important;
+}
+
+.AccB li a{
+  color: #03253b !important;
+  font-weight: 500;
+  display: block;
+}
+
+.mobile-logo{
+  background-color: #f2f2f2;
+  padding: 1em 0em;
+  text-align: center;
+  border-bottom: 1.5px solid #03253b;
+  display: none;
+}
+
+.mobile-logo a{
+  text-decoration: none;
+}
+
+.mobile-logo a img{
+  width: 150px;
+}
+
+@media screen and (max-width: 1300px){
+
+  img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{ display: none; }
+  
+    nav{
+      padding: 0.7em 0em !important;
+    }
+    .sitelogo{
+      margin-left: 0em !important;
+    }
+    .navlistLeft li{
+      margin-left: 0.9em !important;
+      font-size: 14px !important;
+    }
+    .sitelogo a img{
+      width: 180px !important;
+    }
+    .dropdown-content{
+      min-width: 150px !important;
+    }
+    .dropdown-content a{
+      font-size: 12px !important;
+      padding: 6px 5px !important;
+    }
+    .navlistRight li{
+      margin-left: 1em !important;
+      font-size: 14px !important;
+    }
+    nav{
+      height: 67px !important;
+    }
+    .SolMenuBody{
+      top: 4.1em !important;
+      left: 13em !important;
+      padding: 0.5em !important;
+      width: 40%;
+    }
+    .ShoppingList{
+      top: 4.1em !important;
+    }
+    .ProdList li{
+      font-size: 14px !important;
+    }
+    .WorkFList li{
+      font-size: 14px !important;
+    }
+    .TolsMenuBody{
+      top: 4.1em !important;
+      left: 20.5em !important;
+      padding: 0.5em !important;
+    }
+    .TolsMenuBody li{
+      font-size: 14px !important;
+    }
+    .CoMenuBody{
+      top: 4.1em !important;
+      left: 31em !important;
+      padding: 0.5em !important;
+    }
+    .CoMenuBody li{
+      font-size: 14px !important;
+    }
+    .SearchBlock{
+      top: 4.1em !important;
+    }
+    .AccountList{
+      top: 4.1em !important;
+      width: 18% !important;
+    }
+    .SearchBlock input{
+      font-size: 15px !important;
+    }
+    .Payment-Header{
+      padding: 1em !important;
+    }
+    .fullname{
+      width: 205px !important;
+    }
+    #recapacth{
+      bottom: 0em !important;
+      left: 0em !important;
+    }
+    .recaptch4{
+      -webkit-transform: scale(0.77) !important;
+      transform: scale(0.77) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+  }
+
+  @media screen and (max-width: 1200px){
+    .NewsLeterHeader h1{
+      font-size: 25px;
+    }
+    .NewsLeterHeader p{
+      font-size: 20px;
+      padding-left: 8em;
+      padding-right: 8em;
+    }
+    .newsform li:nth-child(1) h2{
+      font-size: 20px;
+    }
+    .newsform li:nth-child(1) input{
+      height: 50px;
+      font-size: 16px;
+    }
+    .newsform li:nth-child(2) button{
+      height: 50px;
+      font-size: 16px;
+    }
+    .newsform{
+      padding-top: 0;
+    }
+
+    .TrustedBy{
+      height: 55px !important;
+      line-height: 55px;
+    }
+
+    .TrustedLabel{
+      height: 55px !important;
+      line-height: 50px;
+      font-size: 20px;
+    }
+
+    .Brandicons{
+      height: 55px !important;
+      line-height: 50px;
+    }
+
+    .Brandicons li img{
+      max-height: 40px !important;
+    }
+
+    .navlistRight li{
+      margin-left: 0.8em !important;
+    }
+
+    .AccountList{
+      width: 20% !important;
+    }
+    .Payment-Header p{
+      padding-right: 1em !important;
+      padding-left: 1em !important;
+    }
+    .paypal{
+      background-color: none !important;
+    }
+    .paycredit{
+      background-color: none !important;
+    }
+
+    .ToolCard .Tool1-img,.ToolCard .Tool2-img,.ToolCard .Tool3-img, .ToolCard .Tool4-img, .ToolCard .Tool5-img, 
+    .ToolCard .Tool6-img, .ToolCard .Tool7-img, .ToolCard .Tool8-img, .ToolCard .Tool9-img, .ToolCard .Tool10-img, 
+    .ToolCard .Tool11-img, .ToolCard .Tool12-img, .ToolCard .Tool13-img, .ToolCard .Tool14-img, .ToolCard .Tool15-img, 
+    .ToolCard .Tool16-img, .ToolCard .Tool17-img, .ToolCard .Tool18-img, .ToolCard .Tool19-img, .ToolCard .Tool20-img, 
+    .ToolCard .Tool21-img, .ToolCard .Tool22-img, .ToolCard .Tool23-img, .ToolCard .Tool24-img, .ToolCard .Tool25-img, 
+    .ToolCard .Tool26-img, .ToolCard .Tool27-img, .ToolCard .Tool28-img, .ToolCard .Tool29-img, .ToolCard .Tool30-img, 
+    .ToolCard .Tool31-img, .ToolCard .Tool32-img, .ToolCard .Tool33-img, .ToolCard .Tool34-img, .ToolCard .Tool35-img, 
+    .ToolCard .Tool36-img, .ToolCard .Tool37-img, .ToolCard .Tool38-img, .ToolCard .Tool39-img, .ToolCard .Tool40-img, 
+    .ToolCard .Tool41-img, .ToolCard .Tool42-img, .ToolCard .Tool43-img, .ToolCard .Tool44-img {
+      height: 250px !important;
+    }
+
+  }
+
+  @media screen and (max-width: 1100px){
+    .navlistLeft{
+      display: none !important;
+    }
+    .navlistRight li:nth-child(1){
+      line-height: 1.7;
+      display: block !important;
+      padding-right: 10px !important;
+    }
+    .SearchBlock{
+      padding: 0em 0.5em !important;
+    }
+    .SearchBlock input{
+      padding: 0.5em !important;
+    }
+    .SearchBlock span img{
+      right: 1em !important;
+    }
+    footer{
+      padding-right: 0.5em !important;
+      padding-left: 0.5em !important;
+      padding-top: 2em !important;
+    }
+    .copyright{
+      padding-top: 1em !important;
+    }
+    .footer-social li a div{
+      width: 25px !important;
+      height: 25px !important;
+      line-height: 25px !important;
+    }
+    .footerIcon a img{
+      width: 150px !important;
+    }
+    .navlistRight li:nth-child(3){
+      display: none !important;
+    }
+  }
+
+  @media screen and (max-width: 1024px){
+    footer{
+      padding-bottom: 1em !important;
+    }
+    footer h6{
+      font-size: 12px;
+    }
+    footer li a{
+      font-size: 12px;
+    }
+    .copyright{
+      font-size: 12px;
+    }
+    .footerBar{
+      padding: 0.5em 0.5em;
+      height: 50px;
+    }
+    .footer-social li a{
+      font-size: 12px;
+    }
+    .footer-social{
+      top: 12px;
+      right: 0.5em;
+    }
+    .footerIcon{
+      padding-left: 0.5em;
+    }
+    .NewsLeterHeader p{
+      padding-right: 5em;
+      padding-left: 5em;
+    }
+    .ShoppingCart img{
+      width: 25px !important;
+    }
+
+    .AccountList{
+      width: 25% !important;
+    }
+    .Thanks-Header{
+      font-size: 38px !important;
+    }
+    .NewsHeader{
+      padding-bottom: 1em !important;
+    }
+    .NewsHeader{
+      padding-bottom: 1em !important;
+    }
+    .Payment-Header p{
+      font-size: 20px !important;
+    }
+
+    .credit-privacy p{
+      font-size: 14px !important;
+      padding-top: 1em !important;
+    }
+    .Payment-Body{
+      padding: 1em 23% !important;
+    }
+    .recaptch4{
+      -webkit-transform: scale(0.55) !important;
+      transform: scale(0.55) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+    .RegisterSlug{
+      font-size: 20px !important;
+      padding: 0.5em 2em !important;
+    }
+    .CheckOut-Body{
+      padding: 2em 0em !important;
+    }
+    .CheckOut-Frame{
+      padding: 1em !important;
+    }
+    .CartHeader{
+      font-size: 25px !important;
+    }
+    .SettingsBody{
+      padding: 1em !important;
+    }
+    .nav-pills .nav-link{
+      padding: 5px !important;
+      font-size: 12px !important;
+    }
+    .nav-pills .nav-link.active{
+      padding: 5px !important;
+      font-size: 12px !important;
+    }
+    .EdintFormBody h4{
+      font-size: 16px !important;
+    }
+    p.labell1, p.labell2, p.labell3, p.labell4, p.labell5, p.labell6, p.labell7, p.labell8, p.labell9{
+      font-size: 16px !important;
+    }
+    .changebtn{
+      font-size: 12px !important;
+    }
+    .EdintFormBody .col-md-4{
+      padding: 0.3em 0em;
+    }
+    .table>:not(caption)>*>*{
+      font-size: 12px !important;
+    }
+    .ToolsItem{
+      padding-top: 0em !important;
+    }
+  }
+
+  @media screen and (max-width: 990px){
+    .carttotal{
+      padding-left: 0em !important;
+    }
+  }
+
+  @media screen and (max-width: 820px){
+    .fullname{
+      width: 155px !important;
+      font-size: 14px !important;
+    }
+    .creditform li:nth-child(3) input{
+      font-size: 14px !important;
+    }
+    .safety{
+      font-size: 14px !important;
+    }
+    .paypal{
+      padding-bottom: 0em !important;
+    }
+    .paycredit{
+      padding-bottom: 1em !important;
+    }
+  }
+
+  @media screen and (max-width: 812px){
+    .newsform li:nth-child(1) input{
+      width: 35em;
+    }
+    .product-name{
+      font-size: 16px !important;
+    }
+
+    .productprice{
+      font-size: 16px !important;
+    }
+
+    .totalcharge{
+      font-size: 16px !important;
+    }
+    .Thanks-Header{
+      font-size: 30px !important;
+    }
+    .confirm-note{
+      padding: 3em 1em !important;
+      font-size: 22px !important;
+    }
+    .table>:not(caption)>*>*{
+      font-size: 10px !important;
+    }
+  }
+
+  @media screen and (max-width: 768px){
+    .ToolCard .Tool1-img,.ToolCard .Tool2-img,.ToolCard .Tool3-img, .ToolCard .Tool4-img, .ToolCard .Tool5-img, 
+    .ToolCard .Tool6-img, .ToolCard .Tool7-img, .ToolCard .Tool8-img, .ToolCard .Tool9-img, .ToolCard .Tool10-img, 
+    .ToolCard .Tool11-img, .ToolCard .Tool12-img, .ToolCard .Tool13-img, .ToolCard .Tool14-img, .ToolCard .Tool15-img, 
+    .ToolCard .Tool16-img, .ToolCard .Tool17-img, .ToolCard .Tool18-img, .ToolCard .Tool19-img, .ToolCard .Tool20-img, 
+    .ToolCard .Tool21-img, .ToolCard .Tool22-img, .ToolCard .Tool23-img, .ToolCard .Tool24-img, .ToolCard .Tool25-img, 
+    .ToolCard .Tool26-img, .ToolCard .Tool27-img, .ToolCard .Tool28-img, .ToolCard .Tool29-img, .ToolCard .Tool30-img, 
+    .ToolCard .Tool31-img, .ToolCard .Tool32-img, .ToolCard .Tool33-img, .ToolCard .Tool34-img, .ToolCard .Tool35-img, 
+    .ToolCard .Tool36-img, .ToolCard .Tool37-img, .ToolCard .Tool38-img, .ToolCard .Tool39-img, .ToolCard .Tool40-img, 
+    .ToolCard .Tool41-img, .ToolCard .Tool42-img, .ToolCard .Tool43-img, .ToolCard .Tool44-img {
+      height: 250px !important;
+      background-size: 98% !important;
+    }
+  }
+
+  @media screen and (max-width: 767px){
+    footer{
+      text-align: center !important;
+    }
+    footer h6{
+      font-size: 16px;
+    }
+    footer li a{
+      font-size: 14px;
+    }
+    footer .col-md-3{
+      padding-bottom: 1em;
+    }
+    footer .col-md-2{
+      padding-bottom: 1em;
+    }
+    .NewsLeterHeader p{
+      padding-right: 1em;
+      padding-left: 1em;
+    }
+    .newsform li:nth-child(1) input{
+      width: 25em;
+    }
+
+    .TrustedBy{
+      height: 35px !important;
+      line-height: 35px;
+    }
+
+    .TrustedLabel{
+      height: 35px !important;
+      line-height: 30px;
+      font-size: 16px;
+      width: 120px;
+    }
+
+    .Brandicons{
+      height: 35px !important;
+      line-height: 30px;
+    }
+
+    .Brandicons li img{
+      max-height: 25px !important;
+    }
+
+    .formlist{
+      width: 50% !important;
+    }
+
+    .Rhead1{
+      font-size: 20px;
+    }
+
+    .Rhead2{
+      font-size: 20px;
+    }
+
+    .or{
+      font-size: 16px;
+    }
+
+    .inputt{
+      height: 35px !important;
+      line-height: 35px !important;
+      font-size: 14px !important;
+    }
+
+    .requestbtn{
+      font-size: 16px !important;
+    }
+
+    .formlist:nth-child(1) li:nth-child(6){
+      padding-bottom: 0px !important;
+    }
+
+    .recaptch1{
+      -webkit-transform: scale(0.77) !important;
+      transform: scale(0.77) !important;
+      -webkit-transform-origin: 0 0 !important; 
+      transform-origin: 0 0 !important;
+    }
+
+    .recaptch2{
+      -webkit-transform: scale(0.77) !important;
+      transform: scale(0.77) !important;
+      -webkit-transform-origin: 50% 0 !important; 
+      transform-origin: 50% 0 !important;
+    }
+
+    .recaptch4{
+      -webkit-transform: scale(0.33) !important;
+      transform: scale(0.33) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+
+    .socialbadge{
+      padding-top: 1em !important;
+    }
+
+    .gmailbadge{
+      width: 45% !important;
+    }
+
+    .facebookbadge{
+      width: 45% !important;
+    }
+
+    .yahoobadge{
+      width: 45% !important;
+    }
+
+    .linkedinbadge{
+      width: 45% !important;
+    }
+
+    .loginlist{
+      width: 50% !important;
+    }
+    .LogIn-Header{
+      font-size: 18px !important;
+    }
+    .loginheader{
+      font-size: 18px !important;
+    }
+    .loginbtn{
+      font-size: 14px !important;
+    }
+    .forgotbtn{
+      font-size: 14px !important;
+    }
+    .loginlist li:nth-child(2) b{
+      font-size: 14px !important;
+    }
+    .registerpanel{
+      font-size: 16px !important;
+    }
+    .Thanks-Header{
+      font-size: 25px !important;
+    }
+    .Payment-Header p{
+      font-size: 16px !important;
+    }
+    .creditform li{
+      padding-bottom: 1em !important;
+    }
+    .safety{
+      margin-top: 1em !important;
+    }
+    .Payment-Header p{
+      font-size: 12px !important;
+    }
+    .fullname{
+      padding: 0.3em 0.4em !important;
+      font-size: 12px !important;
+    }
+    .creditform li:nth-child(3) input{
+      padding: 0.3em 0.4em !important;
+      font-size: 12px !important;
+    }
+    .paypal{
+      margin-top: 1em !important;
+    }
+    .safety{
+      padding: 0.3em 0.4em !important;
+      font-size: 12px !important;
+    }
+    .cardh{
+      font-size: 14px !important;
+    }
+    .productname{
+      font-size: 14px !important;
+    }
+    td {
+      font-size: 14px !important;
+    }
+    .inputfield1 input, .inputfield2 input, .inputfield3 input, .inputfield4 input, .inputfield5 input, .inputfield6 input,
+    .inputfield7 input, .inputfield8 input, .inputfield9 input{
+      font-size: 14px !important;
+      width: 100% !important;
+    }
+    #v-pills-tab{
+      border: 0px !important;
+    }
+    .SettingsBody{
+      padding: 0.8em !important;
+    }
+    .me-3{
+      margin-right: 0px !important;
+    }
+}
+
+  @media screen and (max-width: 640px){
+    .sitelogo a img{
+      width: 140px !important;
+    }
+    .navlistRight li{
+      font-size: 12px !important;
+    }
+    .LogIn{
+      width: 60px !important;
+    }
+    .Request{
+      width: 120px !important;
+    }
+    nav{
+      height: 57px !important;
+    }
+    .SearchBlock{
+      top: 3.5em !important;
+    }
+    .ShoppingList{
+      top: 3.5em !important;
+    }
+    .AccountList{
+      top: 3.5em !important;
+      width: 18% !important;
+    }
+    .dropdown-content{
+      top: 3.7em;
+    }
+    .navlistRight li:nth-child(1){
+      line-height: 1.5 !important;
+      padding-right: 0px !important;
+    }
+    .newsform li:nth-child(1) input{
+      width: 20em;
+      height: 25px;
+    }
+    .newsform li:nth-child(2) button{
+      height: 35px;
+      padding: 0px !important;
+    }
+    .newsform li:nth-child(1) h2{
+      font-size: 16px;
+    }
+    .or li img{
+      width: 150px !important;
+    }
+    .gmailbadge{
+      width: 50% !important;
+    }
+
+    .facebookbadge{
+      width: 50% !important;
+    }
+
+    .yahoobadge{
+      width: 50% !important;
+    }
+
+    .linkedinbadge{
+      width: 50% !important;
+    }
+
+    .recaptch1{
+      -webkit-transform: scale(0.66) !important;
+      transform: scale(0.66) !important;
+      -webkit-transform-origin: 0 0 !important; 
+      transform-origin: 0 0 !important;
+    }
+
+    .recaptch2{
+      -webkit-transform: scale(0.66) !important;
+      transform: scale(0.66) !important;
+      -webkit-transform-origin: 50% 0 !important; 
+      transform-origin: 50% 0 !important;
+    }
+
+    .LogIn-Header{
+      font-size: 16px !important;
+    }
+    .loginheader{
+      font-size: 16px !important;
+    }
+    .loginbtn{
+      font-size: 12px !important;
+      width: 100% !important;
+    }
+    .forgotbtn{
+      font-size: 12px !important;
+      width: 100% !important;
+    }
+    .loginlist li:nth-child(2) b{
+      font-size: 12px !important;
+    }
+    .registerpanel{
+      font-size: 14px !important;
+    }
+    .Thanks-Header{
+      font-size: 22px !important;
+    }
+    .confirm-note{
+      padding: 2em 0em !important;
+      font-size: 20px !important;
+    }
+    .cardh{
+      font-size: 12px !important;
+    }
+    .fullname{
+      width: 105px !important;
+    }
+    .paycredit{
+      padding-bottom: 0.5em !important;
+    }
+    .Payment-Header p{
+      font-size: 10px !important;
+    }
+    .Payment-Header p:nth-child(3){
+      margin: 0px !important;
+    }
+    .creditform{
+      padding-top: 1em !important;
+    }
+    .EdintFormBody h4{
+      font-size: 14px !important;
+    }
+    .table>:not(caption)>*>*{
+      font-size: 8px !important;
+    }
+  }
+
+  @media (min-width: 576px){
+  .modal-dialog {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 576px){
+  .gmailbadge{
+      width: 60% !important;
+    }
+
+    .facebookbadge{
+      width: 60% !important;
+    }
+
+    .yahoobadge{
+      width: 60% !important;
+    }
+
+    .linkedinbadge{
+      width: 60% !important;
+    }
+    .loginlist{
+      padding: 0em 0.5em !important;
+    }
+    .productname{
+      font-size: 12px !important;
+    }
+    td{
+      font-size: 12px !important;
+    }
+    .CartHeader{
+      font-size: 20px !important;
+    }
+}
+
+@media screen and (max-width: 480px){
+  .navlistRight li{
+    margin-left: 0.8em !important;
+  }
+  .navlistRight li:nth-child(1) span{
+    padding-right: 5px !important;
+  }
+  .mobile-logo{
+    display: block !important;
+  }
+  .sitelogo a img{
+    display: none;
+  }
+  .footerIcon a img{
+    width: 100px !important;
+  }
+  .footerIcon{
+    padding-left: 0em !important;
+  }
+  .footer-social li a{
+      font-size: 10px;
+    }
+  .footer-social li a div{
+    width: 20px !important;
+    height: 20px !important;
+    line-height: 20px !important;
+  }
+  .footer-social{
+    top: 8px !important;
+  }
+  .footerBar{
+    height: 45px;
+  }
+  .newsform li:nth-child(1) input{
+    height: 35px;
+    padding: 0.5em;
+    font-size: 12px;
+  }
+  .newsform li:nth-child(2) button{
+    font-size: 12px;
+    height: 30px;
+  }
+
+  .gmailbadge{
+      width: 70% !important;
+    }
+    
+    .facebookbadge{
+      width: 70% !important;
+    }
+
+    .yahoobadge{
+      width: 70% !important;
+    }
+
+    .linkedinbadge{
+      width: 70% !important;
+    }
+  .requestbtn{
+      width: 100% !important;
+    }
+    .inputt{
+      font-size: 12px !important;
+    }
+    .form-select{
+      font-size: 12px !important;
+    }
+    .Rhead1{
+      font-size: 18px !important;
+    }
+    .Rhead2{
+      font-size: 18px !important;
+    }
+    .recaptch1{
+      -webkit-transform: scale(0.55) !important;
+      transform: scale(0.55) !important;
+      -webkit-transform-origin: 0 0 !important; 
+      transform-origin: 0 0 !important;
+    }
+
+    .recaptch2{
+      -webkit-transform: scale(0.55) !important;
+      transform: scale(0.55) !important;
+      -webkit-transform-origin: 50% 0 !important; 
+      transform-origin: 50% 0 !important;
+    }
+
+    .recaptch4{
+      -webkit-transform: scale(0.30) !important;
+      transform: scale(0.30) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+
+    .ShoppingList{
+      right: 0em !important;
+      width: 100% !important;
+    }
+    .productprice{
+      position: absolute !important;
+      right: 10px;
+    }
+    .Thanks-Header{
+      font-size: 18px !important;
+    }
+    .confirm-note{
+      padding: 2em 0em !important;
+      font-size: 16px !important;
+    }
+    .Payment-Header{
+      padding: 0.5em !important;
+    }
+    .cardh{
+      font-size: 10px !important;
+    }
+    .fullname{
+      width: 85px !important;
+      padding: 0.2em 0.3em !important;
+      font-size: 10px !important;
+    }
+    .creditform li:nth-child(3) input{
+      padding: 0.2em 0.3em !important;
+      font-size: 10px !important;
+    }
+    .safety{
+      padding: 0.2em 0.3em !important;
+      font-size: 10px !important;
+    }
+    .paycredit{
+      padding-bottom: 0em !important;
+    }
+    .RegisterSlug{
+      font-size: 16px !important;
+      padding: 0.5em !important;
+    }
+    .Payment-Header p{
+      font-size: 8px !important;
+    }
+    .CheckOut-Frame{
+      width: 100% !important;
+      padding: 0px !important;
+    }
+    th{
+      padding: 5px !important;
+      font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .gmailbadge{
+      width: 85% !important;
+    }
+    
+    .facebookbadge{
+      width: 85% !important;
+    }
+
+    .yahoobadge{
+      width: 85% !important;
+    }
+
+    .linkedinbadge{
+      width: 85% !important;
+    }
+    .or li img{
+      width: 80px !important;
+    }
+    .recaptch1{
+      -webkit-transform: scale(0.44) !important;
+      transform: scale(0.44) !important;
+      -webkit-transform-origin: 0 0 !important; 
+      transform-origin: 0 0 !important;
+    } 
+
+    .recaptch2{
+      -webkit-transform: scale(0.44) !important;
+      transform: scale(0.44) !important;
+      -webkit-transform-origin: 50% 0 !important; 
+      transform-origin: 50% 0 !important;
+    }
+    .paycredit{
+      margin-top: 0.5em !important;
+      padding-bottom: 0.5em !important;
+    }
+    .inputt{
+      font-size: 12px !important;
+    }
+    .requestbtn{
+      font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width: 375px){
+  .newsform li:nth-child(1) input{
+    width: 18em;
+  }
+  .NewsLeterHeader h1{
+    font-size: 18px;
+  }
+  .newsform li:nth-child(1) h2{
+    font-size: 14px;
+  }
+  .NewsLeterHeader p{
+    font-size: 14px;
+  }
+  .recaptch1{
+      -webkit-transform: scale(0.33) !important;
+      transform: scale(0.33) !important;
+      -webkit-transform-origin: 0 0 !important; 
+      transform-origin: 0 0 !important;
+    }
+    .recaptch2{
+      -webkit-transform: scale(0.55) !important;
+      transform: scale(0.55) !important;
+      -webkit-transform-origin: 50% 0 !important; 
+      transform-origin: 50% 0 !important;
+    }
+    .recaptch4{
+      -webkit-transform: scale(0.25) !important;
+      transform: scale(0.25) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+    .gmailbadge{
+      width: 100% !important;
+    }
+    .facebookbadge{
+      width: 100% !important;
+    }
+    .yahoobadge{
+      width: 100% !important;
+    }
+    .linkedinbadge{
+      width: 100% !important;
+    }
+    .product-name{
+      font-size: 14px !important;
+    }
+    .productprice{
+      font-size: 14px !important;
+    }
+    .totalcharge{
+      font-size: 14px !important;
+    }
+    .Thanks-Header{
+      font-size: 16px !important;
+    }
+    .confirm-note{
+      padding: 2em 0em !important;
+      font-size: 14px !important;
+    }
+    .cardh{
+      font-size: 8px !important;
+    }
+    .Payment-Header p:nth-child(3){
+      padding-top: 0em !important;
+    }
+    .credit-privacy p{
+      padding-top: 0em !important;
+    }
+    .fullname{
+      width: 55px !important;
+      font-size: 8px !important;
+    }
+    .safety{
+      font-size: 8px !important;
+    }
+    .form-control{
+      font-size: 8px !important;
+    }
+    td{
+     font-size: 8px !important;
+    }
+    .productname{
+      font-size: 8px !important;
+    }
+    .table>:not(caption)>*>*{
+      font-size: 6px !important;
+    }
+    .EdintFormBody h4{
+      font-size: 12px !important;
+    }
+}
+
+@media screen and (max-width: 320px){
+  .recaptch4{
+      -webkit-transform: scale(0.22) !important;
+      transform: scale(0.22) !important;
+      -webkit-transform-origin: 0% 0 !important; 
+      transform-origin: 0% 0 !important;
+    }
+}
